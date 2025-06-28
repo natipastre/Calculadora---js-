@@ -1,6 +1,8 @@
 # Calculadora Simples
 
-![Calculadora](https://i.postimg.cc/3wYMz3nb/calculadora.png)
+<div align="center">
+  <img src="https://i.postimg.cc/3wYMz3nb/calculadora.png" alt="Calculadora" width="300"/>
+</div>
 
 ## Sobre o Projeto
 
@@ -30,3 +32,4 @@ Você pode testar a calculadora online neste link:
 1. Clone este repositório:  
 ```bash
 git clone https://github.com/natipastre/calculadora-simples.git
+
