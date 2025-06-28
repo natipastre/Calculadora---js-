@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.fundo {
+  background-image: linear-gradient(45deg, black, crimson);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.autor {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.calculadora {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 0 15px crimson;
+  width: 300px;
+}
+
+.titulo {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: crimson;
+}
+
+#resultado {
+  width: 100%;
+  font-size: 1.8rem;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: right;
+  border-radius: 8px;
+  border: none;
+  background-color: #fff;
+  color: #000;
+}
+
+table {
+  width: 100%;
+  border-spacing: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 15px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #222;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background-color: crimson;
+  transform: scale(1.05);
+}
+
+.igual {
+  height: 100%;
+  background-color: darkred;
+}
+
+.igual:hover {
+  background-color: crimson;
+}
