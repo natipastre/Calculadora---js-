@@ -1,7 +1,7 @@
 # Calculadora Simples
 
 <div align="center">
-  <img src="https://i.postimg.cc/3wYMz3nb/calculadora.png" alt="Calculadora" width="300"/>
+  <img src="https://i.postimg.cc/3wYMz3nb/calculadora.png" alt="Calculadora" width="400"/>
 </div>
 
 ## Sobre o Projeto
@@ -26,6 +26,13 @@ O objetivo é praticar lógica de programação e manipulação do DOM, criando 
 
 Você pode testar a calculadora online neste link:  
 [Calculadora no GitHub Pages](https://natipastre.github.io/Calculadora---js-/)
+
+## Como usar
+
+1. Clone este repositório:  
+```bash
+git clone https://github.com/natipastre/calculadora-simples.git
+
 
 ## Como usar
 
