@@ -6,7 +6,7 @@ Este é um projeto de uma calculadora simples feita com HTML, CSS e JavaScript.
 O objetivo é praticar lógica de programação e manipulação do DOM, criando uma interface funcional para realizar operações básicas como soma, subtração, multiplicação e divisão.
 
 
-✨ Veja abaixo uma prévia do projeto em funcionamento:
+✨ Veja abaixo uma prévia do projeto :
 <div align="center">
   <img src="https://i.postimg.cc/3wYMz3nb/calculadora.png" alt="Calculadora" width="500"/>
 </div>
